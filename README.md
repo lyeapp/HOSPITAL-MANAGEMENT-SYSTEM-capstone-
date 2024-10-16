@@ -7,7 +7,7 @@ The **Hospital Appointment System** is designed to help patients conveniently bo
 
 ### Key Goals:
 - Enable patients to book, cancel, and manage appointments.
-- Allow doctors to manage their availability and appointments.
+- Allow patients to view their appointment history and upcoming bookings, ensuring they are well-informed and prepared for their visits.
 - Provide administrators with tools to manage doctors, patients, and appointment schedules.
 
 ---
